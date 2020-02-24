@@ -1,9 +1,9 @@
 {
     "name": "macOS specific callbacks",
     "description": "An in-progress collection of macOS specific callbacks from default installation and applications that arbitrarily or maliciously callback to 3rd party servers.",
-    "homeurl": "https://github.com/randymcmillan/hosts/extensions/macos",
+    "homeurl": "https://github.com/randymcmillan/macos",
     "frequency": "occasional",
-    "issues": "https://github.com/randymcmillann/hosts/extensions/macos/issues",
-    "url": "https://raw.githubusercontent.com/randymcmillan/hosts/master/hosts",
+    "issues": "https://github.com/randymcmillann/macos/issues",
+    "url": "https://raw.githubusercontent.com/randymcmillan/macos/master/macos",
     "license": "MIT"
 }
